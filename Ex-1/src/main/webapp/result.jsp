@@ -20,5 +20,8 @@
 	}
 %>
 </ul>
+<br />
+${result}
+
 </body>
 </html>
